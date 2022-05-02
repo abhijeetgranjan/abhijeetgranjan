@@ -8,7 +8,7 @@
 <h1 align="center"> I'm Abhijeet Ranjan</h1>
 <h3 align="center">a software developer from India. I have a passion for learning and hence I am in pursuit for learning from any source possible.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijeetgranjan&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
 
 - 🌱 I’m currently learning **Microservices**
 
