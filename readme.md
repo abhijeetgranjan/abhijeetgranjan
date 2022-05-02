@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Retail and Banking Domain**
 
-- 📫 How to reach me **abhiran6264@gmail.com**
+- 📫 Reach me on **abhiran6264@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
