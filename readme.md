@@ -11,7 +11,7 @@
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=abhijeetgranjan&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **React.js and Node.js**
 
 - 💬 Ask me about **Retail and Banking Domain**
 
