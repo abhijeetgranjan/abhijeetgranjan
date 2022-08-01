@@ -22,7 +22,7 @@
 <p align="left">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetgranjan&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetgranjan)](https://git.io/streak-stats)
 
 
 <a href="https://skyline.github.com/abhijeetgranjan/2022"> Github Skyline</a>
