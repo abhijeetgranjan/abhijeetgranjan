@@ -5,8 +5,6 @@
 </div>
 
 
-
-
 <h1 align="center"> I'm Abhijeet Ranjan</h1>
 <h3 align="center">I am a software developer from India with an experience of 6 years. </h3>
 
