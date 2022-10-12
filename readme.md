@@ -6,7 +6,7 @@
 
 
 <h1 align="center"> I'm Abhijeet Ranjan</h1>
-<h3 align="center">I am a software developer from India with an experience of 6 years. </h3>
+<h3 align="center">I am a software developer from India with an experience of 6 years.  </h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=abhijeetgranjan&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
 
