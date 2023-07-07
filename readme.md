@@ -6,7 +6,7 @@
 
 
 <h1 align="center"> I'm Abhijeet Ranjan</h1>
-<h3 align="center">I am a software developer from India with an experience of 6 years.  </h3>
+<h3 align="center">I am a software developer from India with an experience of 7 years.  </h3>
 
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=abhijeetgranjan&label=Profile%20views&color=0e75b6&style=flat" alt="abhi" /> </p>
 
@@ -22,11 +22,10 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhijeetgranjan)](https://git.io/streak-stats)
 
+[![Abhijeet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhijeetgranjan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Abhijeet's github activity graph](https://activity-graph.herokuapp.com/graph?username=abhijeetgranjan&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<a href="https://skyline.github.com/abhijeetgranjan/2022"> Github Skyline</a>
+<a href="https://skyline.github.com/abhijeetgranjan/2023"> Github Skyline</a>
 
 <h3 align="left">Languages and Tools:</h3>
 
